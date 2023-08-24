@@ -1,4 +1,4 @@
-# :nail_care: Jeremy Harrell 
+# :cyclone: Jeremy Harrell 
 
 **`Full-stack Software Engineer`**
 
