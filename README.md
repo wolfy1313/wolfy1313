@@ -3,7 +3,7 @@
 **`Full-stack Software Engineer`**
 
 I am a junior software developer that is changing careers! I have successfully completed a 500+ hour Software Engineering immersive and have been freelancing and upskilling every day. I love to create, from music to visual art and now coding projects! Here you can find my official [PORTFOLIO](https://jeremyharrell.net/) with some of my recent work.
----
+- - -
 
 <!--
 **wolfy1313/wolfy1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
