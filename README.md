@@ -1,4 +1,4 @@
-# :new_moon_with_face: Jeremy Harrell :full_moon_with_face:
+# :nail_care: Jeremy Harrell 
 
 <!--
 **wolfy1313/wolfy1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
