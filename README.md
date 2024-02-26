@@ -2,7 +2,7 @@
 
 **`Full-stack Software Engineer`**
 
-I am a junior software developer. I have successfully completed a 500+ hour Software Engineering immersive and have been freelancing and upskilling every day. I love to create, from music to visual art and now coding projects. Here you can find my official [PORTFOLIO](https://jeremyharrell.net/) with some of my recent work.
+I am a junior software developer. I am always freelancing and upskilling. I love to create, from music to visual art and now coding projects. Here you can find my official [PORTFOLIO](https://jeremyharrell.net/) with some of my recent work.
 - - -
 
 ### :hammer_and_wrench: Languages & Tools :nut_and_bolt:
